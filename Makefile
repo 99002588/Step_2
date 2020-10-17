@@ -15,3 +15,5 @@ mystring.o:
 
 clean:
 	rm -rf *.o *.out
+out:
+	./all.out
